@@ -21,6 +21,8 @@ class DoctorController extends Controller
         };
 
     }
+    
+    //这是新加入的
 
     public function guard(){
 //        Auth::guard('doctor');
